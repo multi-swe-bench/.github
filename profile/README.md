@@ -20,6 +20,7 @@
 ![seed logo](https://github.com/user-attachments/assets/c42e675e-497c-4508-8bb9-093ad4d1f216)
 
 
+
 # Multi-SWE-bench
 This organization contains the source code for [Multi-SWE-bench](https://multi-swe-bench.github.io/), a multilingual benchmark for evaluating LLMs in real-world code issue resolution. Unlike existing Python-centric benchmarks (e.g., SWE-bench), the benchmark spans ​7 languages (Java, Go, Rust, TypeScript, JavaScript, C, C++) with ​1,632 high-quality instances, curated from 2,803 candidates by ​88 expert annotators for reliability.
 
