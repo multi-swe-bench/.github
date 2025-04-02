@@ -36,9 +36,9 @@ The Multi-SWE-RL Community is an open-source initiative focused on collaborative
 1. **Be a Contributor**: Get listed in the [Contribution Progress Sheet](https://docs.google.com/spreadsheets/d/1C90SiRmlac3FizmsJzxzrhSNsnCjyYewdrXzFbBV4x0/)  
 2. **Report Authorship**: Become an author in future technical reports   
 
-Full details: [Contribution Incentive Plan](https://github.com/multi-swe-bench/multi-swe-bench/docs/contribution-incentive-plan.md)
+Full details: [Contribution Incentive Plan](https://github.com/multi-swe-bench/multi-swe-bench/blob/main/docs/contribution-incentive-plan.md)
 
 **Get Started in 2 Steps:**
-1. **Learn**: [Quick-Start Guide](https://github.com/multi-swe-bench/multi-swe-bench/docs/build-dataset-quick-start.md)  
-2. **Try**: Follow our [Contribution Demo](https://github.com/multi-swe-bench/multi-swe-bench/docs/contribution-demo.md) 
+1. **Learn**: [Quick-Start Guide](https://github.com/multi-swe-bench/multi-swe-bench/blob/main/docs/build-dataset-quick-start.md)  
+2. **Try**: Follow our [Contribution Demo](https://github.com/multi-swe-bench/multi-swe-bench/blob/main/docs/contribution-demo.md) 
 
